@@ -1,0 +1,19 @@
+#PhantomBot Configuration File
+#Wed Sep 16 20:12:29 CEST 2020
+musicenable=true
+channel=russaklive
+webenable=true
+ytauth=AXVeZP4TkoUQLcqFSws5gXwWpAgr0H
+webauth=qgIPj24Id4W1nmskeGSkH2rIjj3IqS
+webauthro=JF0kZ0e1wOd15szGTZhA2ukC0hEq9X
+panelpassword=aisaaisa00
+usehttps=true
+oauth=oauth\:wdf9l1oxvst3ekp9ymw33o7sjz9plj
+whisperlimit60=60.0
+owner=russaklive
+baseport=25000
+msglimit30=19.0
+ytauthro=CRoWdEauemY0ZslN9J57GmFL8eDrVM
+paneluser=VodkaBot47
+user=vodkabot47
+apioauth=oauth\:f5vy6rh0v3kdrscb0v59n39b2s0ltb

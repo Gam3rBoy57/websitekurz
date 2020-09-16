@@ -1,0 +1,2 @@
+
+[09-16-2020 @ 18:12:48.791 GMT] [onMessage()@TwitchPubSub.java:444] WARNING: This APIOauth token was rejected for Moderation Feed (You can ignore the error if you aren't using this feature)
